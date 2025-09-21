@@ -57,10 +57,6 @@ todo/
 ## Installation & Setup
 
 ###  Clone the Repository
-```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo
-```
 
 ###  Backend Setup
 1. **Install Dependencies**  
